@@ -1,4 +1,8 @@
 /* use variables for colours and values*/
+html {
+  --backgroundfooter:#DEE1E6;
+}
+
 .footer {
   position:fixed;
   bottom:0;
